@@ -1,4 +1,4 @@
-const Name = 'miko';
-const Surname = 'Sanjaya';
-const hobby = 'mini soccer';
-const FavouriteFood = 'naget ayam';
+const Name = 'sanjaya';
+const Surname = 'miko';
+const hobby = 'soccer mini';
+const FavouriteFood = 'naget tikus';
